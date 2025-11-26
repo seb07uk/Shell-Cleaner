@@ -1,4 +1,12 @@
-# 🧹 Shell Cleaner v1.0
+<div style="text-align: center;">
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/Shell-Cleaner/blob/main/screenshot.PNG?raw=true" />
+</div>
+<br>
+
+# <p align="center">Shell Cleaner 🧹</p>
+<p align="center">portable</p>
+<br>
+
 
 A lightweight yet powerful Windows utility designed to simplify system cleanup tasks.  
 Built with **PowerShell + Windows Forms**, Shell Cleaner provides a modern graphical interface for launching batch scripts and system tools with just one click.
